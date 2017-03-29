@@ -1,0 +1,19 @@
+
+WITH
+temp
+{
+SELECT * 
+ FROM [ms-formation-ioth] TIMESTAMP BY Time
+}
+
+SELECT
+    *
+INTO
+    [ms-formation-temperature-blob]
+FROM temp
+
+SELECT
+    *
+INTO
+    [powerbioutput]
+FROM temp
