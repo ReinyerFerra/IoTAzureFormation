@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDeviceIdentity", "CreateDeviceIdentity\CreateDeviceIdentity.csproj", "{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadDeviceToCloudMessages", "ReadDeviceToCloudMessages\ReadDeviceToCloudMessages.csproj", "{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedDevice", "SimulatedDevice\SimulatedDevice.csproj", "{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedServiceIoTHubExample", "ConnectedServiceExample\ConnectedServiceIoTHubExample.csproj", "{1F8FDB06-2466-4C2B-A430-AE4BA5684137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedServiceStorageBlobExample", "ConnectedServiceStorageBlobExample\ConnectedServiceStorageBlobExample.csproj", "{2A155EB4-24E9-41A9-A660-33AC1655564B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedServiceIoTHub2", "ConnectedServiceIoTHub2\ConnectedServiceIoTHub2.csproj", "{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Debug|x86.Build.0 = Debug|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Release|x86.ActiveCfg = Release|Any CPU
+		{D139F15B-565E-49BD-B5F7-A1AA937D1AB8}.Release|x86.Build.0 = Release|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Debug|x86.Build.0 = Debug|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D0A2A0C-AA26-419B-8A96-2C9F85D25028}.Release|x86.Build.0 = Release|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Debug|x86.Build.0 = Debug|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD4C247B-5DA7-473C-A003-FEF5A3B2481C}.Release|x86.Build.0 = Release|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Debug|x86.Build.0 = Debug|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Release|x86.ActiveCfg = Release|Any CPU
+		{1F8FDB06-2466-4C2B-A430-AE4BA5684137}.Release|x86.Build.0 = Release|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Debug|x86.Build.0 = Debug|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Release|x86.ActiveCfg = Release|Any CPU
+		{2A155EB4-24E9-41A9-A660-33AC1655564B}.Release|x86.Build.0 = Release|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Debug|x86.Build.0 = Debug|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Release|x86.ActiveCfg = Release|Any CPU
+		{3C97A01F-3A40-4FF3-8C5E-C4B4A3BBCC4A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+	EndGlobalSection
+EndGlobal

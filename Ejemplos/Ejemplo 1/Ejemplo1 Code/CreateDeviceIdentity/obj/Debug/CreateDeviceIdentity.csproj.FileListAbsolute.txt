@@ -1,0 +1,58 @@
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\CreateDeviceIdentity.exe.config
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\obj\Debug\CreateDeviceIdentity.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\CreateDeviceIdentity.exe
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\CreateDeviceIdentity.pdb
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Amqp.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Devices.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Newtonsoft.Json.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PCLCrypto.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.BCrypt.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.Kernel32.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.NCrypt.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.Windows.Core.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\System.Net.Http.Formatting.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\System.Web.Http.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Validation.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Amqp.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Devices.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Newtonsoft.Json.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PCLCrypto.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.BCrypt.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.Kernel32.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.NCrypt.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\PInvoke.Windows.Core.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\System.Net.Http.Formatting.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\System.Web.Http.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\bin\Debug\Validation.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\obj\Debug\CreateDeviceIdentity.exe
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\CreateDeviceIdentity\CreateDeviceIdentity\obj\Debug\CreateDeviceIdentity.pdb
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\CreateDeviceIdentity.exe.config
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\obj\Debug\CreateDeviceIdentity.exe
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\obj\Debug\CreateDeviceIdentity.pdb
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\CreateDeviceIdentity.exe
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\CreateDeviceIdentity.pdb
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Amqp.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Devices.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Newtonsoft.Json.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PCLCrypto.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.BCrypt.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.Kernel32.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.NCrypt.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.Windows.Core.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\System.Net.Http.Formatting.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\System.Web.Http.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Validation.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Amqp.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Microsoft.Azure.Devices.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Newtonsoft.Json.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PCLCrypto.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.BCrypt.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.Kernel32.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.NCrypt.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\PInvoke.Windows.Core.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\System.Net.Http.Formatting.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\System.Web.Http.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\bin\Debug\Validation.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\CreateDeviceIdentity\obj\Debug\CreateDeviceIdentity.csprojResolveAssemblyReference.cache

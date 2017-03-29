@@ -1,0 +1,8 @@
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+E:\Mis Documentos\Zendos\Clientes\Microsoft\Formación IOT\Ejemplos\Ejemplo 1\Ejemplo1 Code\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
